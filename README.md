@@ -1,6 +1,5 @@
 # Zeraora - URL Shortening Service
 
-[![Zeraora Logo](path-to-logo.png)](https://zeraora.com)  
 Zeraora is a fast, secure, and easy-to-use URL shortening service. With Zeraora, users can shorten long URLs to make them easier to share, track, and manage. Whether you're using it for social media, marketing campaigns, or just sharing links with friends, Zeraora simplifies the process.
 
 ## Table of Contents
@@ -28,7 +27,7 @@ Zeraora is a fast, secure, and easy-to-use URL shortening service. With Zeraora,
 
 To get started with Zeraora, simply follow these steps:
 
-1. **Visit the Website**: Go to [Zeraora](https://zeraora.com) to start shortening URLs.
+1. **Visit the Website**: Go to [Zeraora](https://zeraora-navy.vercel.app) to start shortening URLs.
 2. **Shorten a URL**: Paste a long URL into the text field and click "Shorten".
 3. **Track and Share**: After shortening, you'll get a unique short link that you can share or track.
 
@@ -88,8 +87,8 @@ Zeraora provides a simple API to interact with the service programmatically. You
 
 Zeraora is built using modern technologies to ensure it’s fast, secure, and scalable:
 
-- **Frontend**: React, TailwindCSS, HTML5, CSS3
-- **Backend**: Node.js, Express.js
+- **Frontend**: Next Js, TailwindCSS, CSS3
+- **Backend**: Node.js
 - **Database**: MongoDB (for storing shortened URLs and analytics data)
 - **Authentication**: JWT for token-based authentication
 - **Link Redirection**: Fast and efficient URL redirect logic to minimize latency
@@ -117,4 +116,4 @@ If you have any questions or suggestions, feel free to reach out:
 
 - Email: support@zeraora.com
 - Twitter: [@zeraora](https://twitter.com/zeraora)
-- Website: [https://zeraora.com](https://zeraora.com)
+- Website: [zeraora-navy.vercel.app](https://zeraora-navy.vercel.app)
